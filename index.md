@@ -2,7 +2,6 @@
   <tr>
     <td width="80%">
       <h1>Zilan Cheng(程自岚)</h1>
-      <p><b>Research interests:stochastic processes, bayesian statistics, machine learning</b></p>
       <p><b>E-mail:1345114086@qq.com</b></p>
     </td>
     <td width="20%">
