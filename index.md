@@ -1,7 +1,8 @@
 <table border="0">
   <tr>
     <td width="80%">
-      <h1>Zilan Cheng(程自岚)</h1>
+      <h1>Zilan Cheng</h1>
+      <p><b>Recent interests:stochastic process,machine learning</b></p>      
       <p><b>E-mail:1345114086@qq.com</b></p>
     </td>
     <td width="20%">
