@@ -25,7 +25,7 @@
 
 #### University of Cambridge, July 2018-Aug. 2018
 - **Program:** Cambridge Summer Academic Program
-- Won the distinction(A+) in the course Machine Learning and Algorithms for Data Mining
+- **Won the distinction(A+)** in the course Machine Learning and Algorithms for Data Mining
 
 ### HONORS/AWARDS
 - 2nd Prize at National Level & 1st Prize of Shanghai District (Top3%), China Undergraduate Mathematical Contest in Modeling (CUMCM), 2018
@@ -45,22 +45,22 @@
 
 ### ACADEMIC PROJECTS
 
-#### Python Internship Course Project: Construction of CMS System, _Leader_, July 2019
+#### Python Internship Course Project: Construction of CMS System, July 2019
 - Designed a website equipped with the following basic functions: user registrations, logins and logouts, pictures and texts submissions, continual records of login time and logout time, statistics of website visitors
 
-#### MATLAB Internship Course Project: License Plate Recognition, _Leader_, July 2018
+#### MATLAB Internship Course Project: License Plate Recognition, July 2018
 - Carried out the tasks of car image acquisition, image preprocessing, license plate region extraction, license plate character segmentation, and license plate character recognition
 - Finally improved the recognition accuracy to 80% by employing Template Recognition & Machine Learning Method
 
-#### Mathematical Modeling: Multi-Layer Clothes Design For Heat-Exposed Workers, _Leader_, Sept.2018
+#### Mathematical Modeling: Multi-Layer Clothes Design For Heat-Exposed Workers, Sept.2018
 - Established heat conduction equations with boundary conditions; obtained the numerical solution by Finite Difference Scheme; solved the optimal thickness of a layer of clothing fabric by Golden Section Method
 - Had a good command in Partial Differential Equations, Numerical Analysis, and Operational Research
 
-#### Mathematical Modeling: The Best Scheme of Salary Delivery, _Leader_, June 2018
+#### Mathematical Modeling: The Best Scheme of Salary Delivery, June 2018
 - Applied Time Series and Prophet machine learning platform to forecast the profits of different kinds of financial products and built the optimal investment portfolio
 - Created a Nonlinear-Objective Programming Model to calculate the distribution of monthly salary and year-end bonus to maximize the after-tax salary
 
-#### Mathematical Modeling: The Influence of Climate Change on Regional Instability, _Leader_, Feb.2018
+#### Mathematical Modeling: The Influence of Climate Change on Regional Instability, Feb.2018
 - Built Fragile States Index by comprehensive evaluation methods(Analytic Hierarchy Process & BP Neural Network); quantified the relationship between states’ fragility and a series of factors including climate changes on the basis of big data
 
 ### PERSONAL INTERESTS AND SKILLS
